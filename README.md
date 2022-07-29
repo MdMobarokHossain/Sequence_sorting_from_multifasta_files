@@ -6,8 +6,7 @@ To run the code all required file need to be in the same directory and rename th
 
 # Coordinates file format.
 
-MN437452.1 2 10 
-SRR5132453 20 40 
+MN437452.1 2 10 \n SRR5132453 20 40 
 
 # Run Code in terminal
 Rscripts extract_specific_region_from_multifasta_file.r
