@@ -9,5 +9,5 @@ To run the code all required file need to be in the same directory and rename th
 MN437452.1 2 10 
 SRR5132453 20 40 
 
-# Run Code in linux
+# Run Code in terminal
 Rscripts extract_specific_region_from_multifasta_file.r
