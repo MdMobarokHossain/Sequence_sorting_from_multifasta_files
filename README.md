@@ -11,6 +11,6 @@ SRR5132453 20 40
 
 # Run Code in terminal
 
----bash
+'''bash
 Rscripts extract_specific_region_from_multifasta_file.r
----
+'''
