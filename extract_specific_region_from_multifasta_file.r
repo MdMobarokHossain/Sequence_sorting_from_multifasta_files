@@ -3,7 +3,7 @@
 library(seqinr)
 
 seqs <- read.fasta("final.fasta")
-locs <- read.delim("final.coords", header=F, sep=" ") # Tabs? Put sep="\t"
+locs <- read.delim("final.coords", header=F, sep=" ") #if the file tabdelimated then use sep="\t"
 outf <- file("a001-results.fasta", 'w')
 
 doitall <- function(x) {
