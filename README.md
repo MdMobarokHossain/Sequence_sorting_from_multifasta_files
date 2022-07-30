@@ -2,9 +2,9 @@
 This script has been written by using R. Scripts can be used to extract specific coordinates from multifasta files.
 
 # Installation
-install seqnr from CRAN using the following code
+install seqinr from CRAN using the following code
 ```bash
-inastall.packages("seqnr")
+inastall.packages("seqinr")
 ```
 
 # Prerequisite
